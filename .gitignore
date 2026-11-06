@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Личные заметки и план курса
+COURSE_PLAN.md
+
+SKILL.md
